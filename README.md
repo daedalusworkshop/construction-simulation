@@ -2,7 +2,7 @@
 
 An interactive reconstruction of one commercial construction project manager's day.
 
-The full 7 AM–5 PM timeline can be scrubbed to any second. Pause to inspect reconstructed Procore, Outlook, Excel, Navisworks, Revit, cmBuilder, and look-ahead schedule records. Tutorial notes explain what each record proves, what it does not prove, and where the simulation departs from documented product behavior.
+The full 7 AM–5 PM timeline can be scrubbed to any second. Pause to inspect reconstructed Procore, Outlook, Excel, Navisworks, Revit, cmBuilder, and look-ahead schedule records. A concise micro-lecture follows the PM’s reasoning through the day: what changed, what each record proves, and which judgment comes next.
 
 Open `index.html` or `pm-day.html`. The site is static and has no server, login, analytics, or external runtime dependencies. Source links open only when selected.
 

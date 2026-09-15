@@ -8,7 +8,7 @@ Open pm-day.html in a browser. No login, server, installation, or network connec
 - Scrub to any second or jump with the chapter buttons and previous/next event controls.
 - Pause to explore. Opening a record or changing a value also pauses playback.
 - Reset moment restores the authored state at the current timestamp. Play restores the authored sequence.
-- Tutorial switches extra explanations on/off. Sources & seams and Field guide are always available.
+- The micro-lecture panel is always present and advances with the day. Sources & seams and Field guide are always available.
 - Ask about this moment copies or saves a context packet for a new Codex task. It does not create a task or call an AI service.
 - Space plays/pauses; arrow keys move one minute when not editing a control.
 
@@ -351,7 +351,7 @@ PM question: What is still open at 5 PM?
 
 Teaching cue: Check off items in your exploration. Reset restores the recorded handoff; the scenario does not pretend every problem is solved.
 
-Source seam: Fictional end-of-day handoff. Tutorial checkboxes do not update Procore.
+Source seam: Fictional end-of-day handoff. Interactive checklist changes do not update Procore.
 
 ### 21. 5:00 PM — The day is done. The work is not.
 
